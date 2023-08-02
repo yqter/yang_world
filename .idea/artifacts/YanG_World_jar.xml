@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YanG_World:jar">
+    <output-path>X:/mineCraft_Server/plugins</output-path>
+    <root id="archive" name="YanG_World.jar">
+      <element id="module-output" name="YanG_World" />
+    </root>
+  </artifact>
+</component>

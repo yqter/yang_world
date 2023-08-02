@@ -1,0 +1,19 @@
+name: YanG_World
+author: UtreeFun
+version: V0.0.1
+main: fun.utree.YanG_World
+api-version: '1.20'
+load: STARTUP
+
+commands:
+  bound_tool:
+    description: Bound a tool to select the Block you want to set music open up.
+    permission: op
+    permission-message: "Sorry, You have no Permission"
+    usage: /bound_tool
+
+  set_music_area:
+    description: set(change or delete) the music of the area you referred by your tool..
+    permission: op
+    permission-message: "Sorry, You have no Permission about this Command.."
+    usage: /set_music_area < create|delete|change > <NAME> [MUSIC_NAME]
